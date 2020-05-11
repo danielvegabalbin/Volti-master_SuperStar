@@ -1,0 +1,27 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.151580502)
+
+newmtl Base_Servers_MT
+kd 0.192434 0.192434 0.192434
+illum 1
+
+newmtl Lights_T1_Servers_MT
+kd 0.8 0.0380716 0.0113921
+illum 1
+
+newmtl Lights_T2_Servers_MT
+kd 0.00100858 0.8 0
+illum 1
+
+newmtl Lights_T3_Servers_MT
+kd 0 0.00300367 0.8
+illum 1
+
+newmtl Lights_T4_Servers_MT
+kd 0.8 0.690485 0
+illum 1
+
+newmtl Back_Server_MT
+kd 0.0729713 0.0729713 0.0729713
+illum 1
+
